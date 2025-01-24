@@ -29,7 +29,7 @@ I’m a recently graduated Data Scientist with a Master's in Data Science and AI
 Over the course of my career, I’ve gained diverse experience across roles and industries, including:
 - **Data Analysis**: Extracting insights from complex datasets using Python, SQL, and advanced statistical methods.
 - **Project Management**: Successfully leading and collaborating on international clinical trials, managing regulatory compliance, and coordinating data science projects.
-- **Teaching & Leadership**: Supervising over 70 theses as a university lecturer and fostering academic collaboration with institutions like the Mayo Clinic, Imperial College, and McMaster University.
+- **Teaching & Leadership**: Supervising over 70 theses as an Associate Professor, and fostering academic collaboration with institutions like the Mayo Clinic, Imperial College, and McMaster University.
 
 For more details, check out my [LinkedIn](https://www.linkedin.com/in/jose-pantaleon-98369b2/) or [ResearchGate](https://www.researchgate.net/profile/Jose-Hernandez-269).
 
