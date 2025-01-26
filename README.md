@@ -5,7 +5,7 @@
 # 👋 Welcome to My GitHub
 
 ## About Me
-I’m a recently graduated Data Scientist with a Master's in Data Science and AI from EDEM Business School (2024-2025) and a passion for uncovering insights through data. My journey began as a Forecast Analyst, where I developed a keen eye for trends, predictive accuracy, and actionable insights. Now, I’m eager to apply my expertise in data analysis, machine learning, and AI to solve real-world problems.
+I’m a recently graduated Data Scientist with a Master's in Data Science and AI from EDEM Business School (2024-2025) and a passion for uncovering insights through data. My journey began as a Public Health Data Analyst, where I developed a keen eye for trends, predictive accuracy, and actionable insights. Now, I’m eager to apply my expertise in data analysis, machine learning, and AI to solve real-world problems.
 
 ---
 
