@@ -34,7 +34,7 @@ Over the course of my career, I’ve gained diverse experience across roles and 
 - **Data Analysis**: Extracting insights from complex datasets using Python, SQL, and advanced statistical methods.
 - **Project Management**: Successfully leading and collaborating on international clinical trials, managing regulatory compliance, and coordinating data science projects.
 - **Teaching & Leadership**: Supervising over 70 theses as an Associate Professor, and fostering academic collaboration with institutions like the Mayo Clinic, Imperial College, and McMaster University. Hold Principal Investigator and Project Management roles leading large teams.
-- **Teaching**: I hold doctoral and postodoctoral training from School of Medicine at the University of Oxford, as well as various other postgraduate trainings in other European institutions.
+- **Teaching**: I hold doctoral and postodoctoral training from the School of Medicine at the University of Oxford, as well as various other postgraduate trainings in other European institutions.
 
 For more details, check out my [LinkedIn](https://www.linkedin.com/in/jose-pantaleon-98369b2/) or [ResearchGate](https://www.researchgate.net/profile/Jose-Hernandez-269).
 
