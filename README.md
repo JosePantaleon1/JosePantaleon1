@@ -36,7 +36,8 @@ Over the course of my career, I’ve gained diverse experience across roles and 
 - **Teaching & Leadership**: Supervising over 70 theses as an Associate Professor, and fostering academic collaboration with institutions like the Mayo Clinic, Imperial College, and McMaster University. Hold Principal Investigator and Project Management roles leading large teams.
 - **Training**: I hold doctoral and postodoctoral training from the School of Medicine at the University of Oxford, as well as various other postgraduate trainings in other European institutions.
 
-For more details, check out my [LinkedIn](https://www.linkedin.com/in/jose-pantaleon-98369b2/) or [ResearchGate](https://www.researchgate.net/profile/Jose-Hernandez-269).
+[For more details, check out my LinkedIn](https://www.linkedin.com/in/jose-pantaleon-hernandez-dphil-98369b2/)
+ or [ResearchGate](https://www.researchgate.net/profile/Jose-Hernandez-269).
 
 ---
 
